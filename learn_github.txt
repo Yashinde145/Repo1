@@ -1,5 +1,12 @@
 hey github
+programming languages-
 c
 c++
 java
 sql
+
+os-
+windows
+mac 
+linux
+ubantu
